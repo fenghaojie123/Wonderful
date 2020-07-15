@@ -21,3 +21,4 @@ http://v3.wufazhuce.com:8000/api/movie/detail/$id?version=v3.5.3
 
 评论通用：word是对应的分类 essay,question,serial,movie,music  cid是评论的id，第一次传0，加载获取更多评论时，cid是上面获取到评论的最后一条评论的id
 http://v3.wufazhuce.com:8000/api/comment/praiseandtime/$word/$id/$cid?version=v3.5.3
+# Wonderful
